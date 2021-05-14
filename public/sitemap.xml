@@ -20,52 +20,58 @@
     <loc>/event/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
   </url><url>
+    <loc>/tag/academic/</loc>
+    <lastmod>2021-05-14T11:39:58+05:30</lastmod>
+  </url><url>
+    <loc>/author/arun-mitra/</loc>
+    <lastmod>2021-05-14T11:39:58+05:30</lastmod>
+  </url><url>
+    <loc>/authors/</loc>
+    <lastmod>2021-05-14T11:39:58+05:30</lastmod>
+  </url><url>
+    <loc>/author/biju-soman/</loc>
+    <lastmod>2021-05-14T11:39:58+05:30</lastmod>
+  </url><url>
+    <loc>/categories/</loc>
+    <lastmod>2021-05-14T11:39:58+05:30</lastmod>
+  </url><url>
+    <loc>/category/covid/</loc>
+    <lastmod>2021-05-14T11:39:58+05:30</lastmod>
+  </url><url>
+    <loc>/post/covid-19-epidemic-in-india/</loc>
+    <lastmod>2021-05-14T11:39:58+05:30</lastmod>
+  </url><url>
+    <loc>/category/data-analytics/</loc>
+    <lastmod>2021-05-14T11:39:58+05:30</lastmod>
+  </url><url>
+    <loc>/category/epidemiology/</loc>
+    <lastmod>2021-05-14T11:39:58+05:30</lastmod>
+  </url><url>
+    <loc>/post/</loc>
+    <lastmod>2021-05-14T11:39:58+05:30</lastmod>
+  </url><url>
+    <loc>/category/r/</loc>
+    <lastmod>2021-05-14T11:39:58+05:30</lastmod>
+  </url><url>
+    <loc>/tags/</loc>
+    <lastmod>2021-05-14T11:39:58+05:30</lastmod>
+  </url><url>
+    <loc>/post/getting-started/</loc>
+    <lastmod>2020-12-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tag/%E5%BC%80%E6%BA%90/</loc>
+    <lastmod>2020-12-13T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>/courses/</loc>
     <lastmod>2021-01-24T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/courses/example/</loc>
     <lastmod>2021-01-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tag/academic/</loc>
-    <lastmod>2020-12-13T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/author/arun-mitra/</loc>
-    <lastmod>2020-12-13T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/authors/</loc>
-    <lastmod>2020-12-13T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/categories/</loc>
-    <lastmod>2020-12-13T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/category/demo/</loc>
-    <lastmod>2020-12-13T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/post/</loc>
-    <lastmod>2020-12-13T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/tags/</loc>
-    <lastmod>2020-12-13T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/post/getting-started/</loc>
-    <lastmod>2020-12-13T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/author/%E5%90%B3%E6%81%A9%E9%81%94/</loc>
-    <lastmod>2020-12-13T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/tag/%E5%BC%80%E6%BA%90/</loc>
-    <lastmod>2020-12-13T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/category/%E6%95%99%E7%A8%8B/</loc>
-    <lastmod>2020-12-13T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>/post/2020-12-01-r-rmarkdown/</loc>
     <lastmod>2020-12-01T21:13:14-05:00</lastmod>
   </url><url>
     <loc>/tag/plot/</loc>
-    <lastmod>2020-12-01T21:13:14-05:00</lastmod>
-  </url><url>
-    <loc>/category/r/</loc>
     <lastmod>2020-12-01T21:13:14-05:00</lastmod>
   </url><url>
     <loc>/tag/r-markdown/</loc>
@@ -82,6 +88,9 @@
   </url><url>
     <loc>/publication/preprint/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/author/arun-mitra/</loc>
+    <lastmod>2019-09-05T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/publication_types/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
@@ -133,6 +142,6 @@
   </url><url>
     <loc>/admin/</loc>
   </url><url>
-    <loc>/author/arun-mitra/</loc>
+    <loc>/author/biju-soman/</loc>
   </url>
 </urlset>
