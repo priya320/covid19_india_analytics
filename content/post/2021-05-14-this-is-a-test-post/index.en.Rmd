@@ -1,0 +1,30 @@
+---
+title: 'This is a TEST POST '
+author: ''
+date: '2021-05-14'
+slug: this-is-a-test-post
+categories:
+  - COVID
+tags: []
+subtitle: ''
+summary: ''
+authors: []
+lastmod: '2021-05-14T13:06:00+05:30'
+featured: no
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: no
+projects: []
+---
+
+
+This is a text for theraerargfa
+
+```{r}
+plot(mtcars)
+```
+
+
+
+This is the tezt
