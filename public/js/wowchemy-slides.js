@@ -2,7 +2,7 @@
   // ns-params:@params
   var slides = {highlight_style: "dracula", theme: "black"};
 
-  // ns-hugo:C:\Users\Arun\Documents\R\R_master_folder\covid19_india_analytics\themes\github.com\wowchemy\wowchemy-hugo-modules\wowchemy\assets\js\wowchemy-utils.js
+  // ns-hugo:C:\Users\User\Documents\covid19_new\covid19_india_analytics\themes\github.com\wowchemy\wowchemy-hugo-modules\wowchemy\assets\js\wowchemy-utils.js
   function fixMermaid(render = false) {
     let mermaids = [];
     [].push.apply(mermaids, document.getElementsByClassName("language-mermaid"));
@@ -21,7 +21,7 @@
     console.debug(`Processed ${mermaids.length} Mermaid code blocks`);
   }
 
-  // <stdin>
+  // js/wowchemy-slides.js
   var enabledPlugins = [RevealMarkdown, RevealHighlight, RevealSearch, RevealNotes, RevealMath, RevealZoom];
   var isObject = function(o) {
     return o === Object(o) && !isArray(o) && typeof o !== "function";
@@ -90,7 +90,7 @@
     slides.diagram = false;
   }
   if (slides.diagram) {
-    mermaidOptions = {};
+    var mermaidOptions = {};
     if (typeof slides.diagram_options !== "undefined") {
       mermaidOptions = slides.diagram_options;
     }
@@ -100,5 +100,4 @@
       fixMermaid(false);
     });
   }
-  var mermaidOptions;
 })();
