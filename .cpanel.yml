@@ -1,0 +1,5 @@
+---
+deployment:
+  tasks:
+    - export DEPLOYPATH=/home/bijusoma/repositories/covid19_india_analytics_18_05
+    - /bin/cp -R images $DEPLOYPATH
